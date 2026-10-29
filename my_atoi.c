@@ -1,4 +1,4 @@
-int		ft_atoi(const char *str)
+int		my_atoi(const char *str)
 {
 	int i;
 	int sign;
